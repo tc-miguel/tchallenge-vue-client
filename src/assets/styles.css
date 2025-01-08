@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.navbar-primary {
+    background-color: #cbd7db
+}
